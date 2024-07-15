@@ -1,0 +1,14 @@
+p, h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: "Special Elite";
+}
+
+p {
+    font-family: "Special Elite";
+    font-size: medium;
+}
